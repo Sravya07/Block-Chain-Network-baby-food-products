@@ -32,6 +32,8 @@ Registering baby food products into blockchain and the user can query the authen
 
 
 **By:** <br />
-*SavitriSwapna Maddula* <br />
+*Sravya Somisetty*<br/>
+*SavitriSwapna Maddula* <br/>
+*Sheethal Halandur Nagarajan*
 <br />
 <br />
